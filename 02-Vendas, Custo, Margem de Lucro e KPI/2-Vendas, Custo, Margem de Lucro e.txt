@@ -1,0 +1,7 @@
+2-Vendas, Custo, Margem de Lucro e KPI
+
+-Media de lucro por categoria
+-Total de valor da venda por modo de envio
+-KPI - media de valor venda
+-Media de custo Envio por mercado
+-Comportamento da margem de lucro ao longo do tempo
