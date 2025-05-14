@@ -1,4 +1,4 @@
-2-Vendas, Custo, Margem de Lucro e KPI
+2-Vendas, Custo, Margem de Lucro e Indicador-Chave de Desempenho
 
 -Media de lucro por categoria
 -Total de valor da venda por modo de envio
