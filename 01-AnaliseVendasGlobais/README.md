@@ -7,4 +7,10 @@
 
 
 
-<img width="685" alt="Geral" src="https://github.com/user-attachments/assets/6cc3e4d7-fc82-4cbf-b917-354edcef0609" />
+<img width="1000" alt="Geral" src="https://github.com/user-attachments/assets/6cc3e4d7-fc82-4cbf-b917-354edcef0609" />
+
+<img width="500" alt="" src="https://github.com/r-lassen/PowerBI/blob/main/01-AnaliseVendasGlobais/Imagem/BrasilHomeoff2011a2013.png" /> <img width="500" alt="" src="https://github.com/r-lassen/PowerBI/blob/main/01-AnaliseVendasGlobais/Imagem/Homeoff2013-11.png" />
+<img width="500" alt="" src="https://github.com/r-lassen/PowerBI/blob/main/01-AnaliseVendasGlobais/Imagem/Homeoff2013-11.png" />
+<img width="500" alt="" src="https://github.com/r-lassen/PowerBI/blob/main/01-AnaliseVendasGlobais/Imagem/Homeoffgermany.png" />
+<img width="500" alt="" src="https://github.com/r-lassen/PowerBI/blob/main/01-AnaliseVendasGlobais/Imagem/corporativoGermany.png" />
+<img width="500" alt="" src="https://github.com/r-lassen/PowerBI/blob/main/01-AnaliseVendasGlobais/Imagem/filtroConsumidor201-2013.png" />
