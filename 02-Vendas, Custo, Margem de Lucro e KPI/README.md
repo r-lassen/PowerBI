@@ -9,7 +9,6 @@
 
 <img width="1000" alt="Geral" src="https://github.com/r-lassen/PowerBI/blob/main/02-Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Imagens/TodosanosTecnologia.png" />
 
-<img width="500" alt="moveis" src="https://github.com/r-lassen/PowerBI/blob/main/02-Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Imagens/2012M.png" />
-<img width="500" alt="tecnologia" src="https://github.com/r-lassen/PowerBI/blob/main/02-Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Imagens/2012Tecnologia.png" />
-<img width="500" alt="todos2012" src="https://github.com/r-lassen/PowerBI/blob/main/02-Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Imagens/geral2012.png" />
+
+<img width="500" alt="tecnologia" src="https://github.com/r-lassen/PowerBI/blob/main/02-Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Imagens/2012Tecnologia.png" /> <img width="500" alt="todos2012" src="https://github.com/r-lassen/PowerBI/blob/main/02-Vendas%2C%20Custo%2C%20Margem%20de%20Lucro%20e%20KPI/Imagens/geral2012.png" />
 
